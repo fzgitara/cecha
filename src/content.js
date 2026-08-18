@@ -82,22 +82,12 @@ export const projects = [
   {
     name: "trust-production",
     url: "https://trust-production.vercel.app/",
-    desc: "Company profile for my event production business — event organizer, sound and stage rental, bilingual (ID/EN). Next.js + TypeScript, deployed on Vercel.",
+    desc: "Company profile for my event production business — event organizer, sound and stage rental, bilingual (ID/EN). Next.js + TypeScript + ImageKit, deployed on Vercel.",
   },
   {
     name: "baper-padel",
     url: "https://baper-padel.vercel.app/",
-    desc: "Tournament, player, and score management for my padel community. React + TypeScript, deployed on Vercel.",
-  },
-  {
-    name: "solana-token-checker",
-    url: "https://github.com/fzgitara",
-    desc: "Zero-dependency Node tool that checks Solana tokens for red flags — holder counts, volume, liquidity — from Solana RPC and GeckoTerminal.",
-  },
-  {
-    name: "solana-gate",
-    url: "https://github.com/fzgitara",
-    desc: "Trending token scanner with holder filters and momentum analysis, built for personal trading research.",
+    desc: "Tournament, player, and score management for my padel community. React + TypeScript + Supabase, deployed on Vercel.",
   },
 ];
 
