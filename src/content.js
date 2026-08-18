@@ -81,8 +81,13 @@ export const skills = [
 export const projects = [
   {
     name: "trust-production",
-    url: "https://github.com/fzgitara/trust-production",
-    desc: "Website for my event production business — events, documentation, and media pipeline. Next.js, deployed on Vercel.",
+    url: "https://trust-production.vercel.app/",
+    desc: "Company profile for my event production business — event organizer, sound and stage rental, bilingual (ID/EN). Next.js + TypeScript, deployed on Vercel.",
+  },
+  {
+    name: "baper-padel",
+    url: "https://baper-padel.vercel.app/",
+    desc: "Tournament, player, and score management for my padel community. React + TypeScript, deployed on Vercel.",
   },
   {
     name: "solana-token-checker",
