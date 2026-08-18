@@ -169,7 +169,7 @@ function Contact() {
         ))}
       </div>
       <p className="mt-10 text-sm leading-relaxed text-soft">
-        Also plays in <span className="text-ink">Melody of Jessica</span> — a
+        Also plays in <a href="https://open.spotify.com/artist/5qs51CER7OntyvT3Gy7kNU" className="text-ink underline underline-offset-4 hover:text-soft">Melody of Jessica</a> — a
         Gresik band whose song became a terrace anthem for Gresik United fans.
       </p>
     </Section>
