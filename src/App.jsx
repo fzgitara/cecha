@@ -183,11 +183,11 @@ export default function App() {
       <main>
         <Hero />
         <hr className="mx-auto max-w-2xl border-line" />
+        <Projects />
+        <hr className="mx-auto max-w-2xl border-line" />
         <Experience />
         <hr className="mx-auto max-w-2xl border-line" />
         <Skills />
-        <hr className="mx-auto max-w-2xl border-line" />
-        <Projects />
         <hr className="mx-auto max-w-2xl border-line" />
         <Contact />
       </main>
