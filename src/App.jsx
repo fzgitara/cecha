@@ -8,12 +8,12 @@ import {
 } from "./content.js";
 
 function Nav() {
-  const links = ["Experience", "Skills", "Projects", "Contact"];
+  const links = ["Projects", "Experience", "Skills", "Contact"];
   return (
     <header className="border-b border-line">
       <div className="mx-auto flex max-w-2xl items-center justify-between px-6 py-5">
         <a href="#top" className="font-mono text-sm font-semibold tracking-tight">
-          fzgitara
+          Cecha
         </a>
         <nav className="hidden gap-6 text-sm text-soft sm:flex">
           {links.map((l) => (
