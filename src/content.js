@@ -89,6 +89,11 @@ export const projects = [
     url: "https://baper-padel.vercel.app/",
     desc: "Tournament, player, and score management for my padel community. React + TypeScript + Supabase, deployed on Vercel.",
   },
+  {
+    name: "ravn.co.id",
+    url: "https://ravn.co.id/",
+    desc: "Corporate website for RAVN — helping a friend build and maintain it, and currently developing their blog platform. Next.js + TypeScript frontend, Express backend.",
+  },
 ];
 
 export const education = [
