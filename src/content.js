@@ -81,7 +81,7 @@ export const skills = [
 export const projects = [
   {
     name: "trust-production",
-    url: "https://trust-production.vercel.app/",
+    url: "https://www.trustproduction.id/en",
     desc: "Company profile for my event production business — event organizer, sound and stage rental, bilingual (ID/EN). Next.js + TypeScript + ImageKit, deployed on Vercel.",
   },
   {
