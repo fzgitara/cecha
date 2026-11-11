@@ -82,17 +82,23 @@ export const projects = [
   {
     name: "trust-production",
     url: "https://www.trustproduction.id/en",
-    desc: "Company profile for my event production business — event organizer, sound and stage rental, bilingual (ID/EN). Next.js + TypeScript + ImageKit, deployed on Vercel.",
+    image: "/screenshots/trust-production.webp",
+    stack: ["Next.js", "TypeScript", "ImageKit", "Vercel"],
+    desc: "Company profile for my event production business — event organizer, sound and stage rental, bilingual (ID/EN).",
   },
   {
     name: "baper-padel",
     url: "https://baper-padel.vercel.app/",
-    desc: "Tournament, player, and score management for my padel community. React + TypeScript + Supabase, deployed on Vercel.",
+    image: "/screenshots/baper-padel.webp",
+    stack: ["React", "TypeScript", "Supabase", "Vercel"],
+    desc: "Tournament, player, and score management for my padel community.",
   },
   {
     name: "ravn.co.id",
     url: "https://ravn.co.id/",
-    desc: "Corporate website for RAVN — helping a friend build and maintain it, and currently developing their blog platform. Next.js + TypeScript frontend, Express backend.",
+    image: "/screenshots/ravn.webp",
+    stack: ["Next.js", "TypeScript", "Express"],
+    desc: "Corporate website for RAVN — helping a friend build and maintain it, and currently developing their blog platform.",
   },
 ];
 
